@@ -32,7 +32,7 @@ Welcome to **Snake Game**, a classic game! Control the snake to eat food, grow l
 | `S` or `Down Arrow` | Move Down              |
 | `A` or `Left Arrow` | Move Left              |
 | `D` or `Right Arrow`| Move Right             |
-| `R`            | Restart Game in **Game Over** screen               |
+| `Space`            | Restart Game in **Game Over** screen               |
 
 ---
 
@@ -49,6 +49,7 @@ Welcome to **Snake Game**, a classic game! Control the snake to eat food, grow l
    - You can't let the snake bump into itself.
 
 4. **Improve**:
-   - Go for a higher score everytime
+   - Try to beat your previous high score.
+   - Press `Space` to play again after you lose.
 
 ---
